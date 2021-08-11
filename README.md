@@ -5,7 +5,7 @@ O projeto em questão foi obordado:
  Criação de do projeto e aplicações,
  Entendendo urls e templates,
  criação de models,
- django admin.
+ django admin,
  mostrando os arquivos do banco nos templates.
 
 # Imagem do projeto
